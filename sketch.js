@@ -41,7 +41,7 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background("white");
+//  background("white");
 
   roof.display();
   b1.display();
